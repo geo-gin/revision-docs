@@ -5,6 +5,14 @@ sidebar_position: 1
 
 ## Definitions
 
-### Crime
+### Enlightened
 
-An action that breaks the law.
+Definition
+
+### Kamma (Karma)
+
+Definition
+
+### Nibbana (Nirvana)
+
+Definition

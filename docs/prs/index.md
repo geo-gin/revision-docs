@@ -9,7 +9,7 @@ title: Overview
 **Time:** 1h 45m *(extra time 2h 11m)*  
 **Topics:**
 * Christian Beliefs and Practices
-* Buddhist Beliefs and Practices
+* [Buddhist Beliefs and Practices](./buddhism/)
 
 ### Paper 2: Themes
 

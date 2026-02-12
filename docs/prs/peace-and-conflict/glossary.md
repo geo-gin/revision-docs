@@ -55,3 +55,25 @@ Main document: [Pacifism and Peacemaking](./pacifism-and-peacemaking.md)
 ### Conscientious objector
 
 A person who for reason of conscience objects to complying with a particular requirement, especially serving in the armed forces.
+
+### Weapon of Mass Destruction (WMD)
+
+A weapon designed to kill or harm a lot of people at once.
+
+### Nuclear weapon
+
+A bomb or missle that uses nuclear energy to cause an explosion. It is a [weapon of mass destruction](#weapon-of-mass-destruction-wmd).
+
+Main document: [Nuclear Weapons](./nuclear-weapons.md)
+
+### Prisoner of War (POW)
+
+Somebody who has been imprisoned by an enemy in war.
+
+### Multilateral disarmament
+
+When all countries remove their nuclear arsenals.
+
+### Unilateral disarmament
+
+When one country removes their nuclear arsenal.

@@ -85,5 +85,5 @@ This says how countries in war should act:
 * **Distinction:** Attacks must not be against civilian targets
 * **Proportionality:** Excessive force shouldn't be used. For example, weapons of mass destruction shouldn't be used against small militaries
 * **Military necessity:** An attack must be necessary and help defeat the enemy
-* **Fair treatment of prisoners of war:** Prisoners of war must be treated fairly, e.g. they should not be tortured.
+* **Fair treatment of prisoners of war:** [Prisoners of war](./glossary.md#prisoner-of-war-pow) must be treated fairly, e.g. they should not be tortured.
 * **No evil methods:** Warfare methods considered [evil](../crime-and-punishment/glossary.md#evil) should be used. For example, nuclear or biological weapons.
