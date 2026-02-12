@@ -74,7 +74,7 @@ Just War Theory is a theory developed by Saint Thomas Aquinas to decide whether 
 This decides whether the country can go to war. It requires:
 
 * **Competent authority:** The war must be initiated by a democratically elected government
-* **Probability of success:** The goals of the war must be achievable to prevent unnecessary war. For example, a small country like New Zealand should not start war against the USA.
+* **Probability of success:** The goals of the war must be achievable to prevent unnecessary war. For example, a small country like New Zealand should not try to invade the USA.
 * **Last resort:** The war must be as a last resort and all other methods have been tried and have failed
 * **Just cause:** It must be for a just cause, not just for [greed](#greed) or [retaliation](#retaliation). Innocent lives must be in danger.
 
