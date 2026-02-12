@@ -58,7 +58,7 @@ Dependence on a substance or activity that is very hard to overcome. Addiction i
 
 ### Greed
 
-Wanting to possess excessive things that are not needed, e.g. wealth. Greed is a [cause of crime](./causes-of-crime.md) and of [war](../peace-and-conflict/reasons-for-war.md).
+Wanting to possess excessive things that are not needed, e.g. wealth. Greed is a [cause of crime](./causes-of-crime.md) and [reason for war](../peace-and-conflict/reasons-for-war.md).
 
 ### Evil
 
